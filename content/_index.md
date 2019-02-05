@@ -1,6 +1,6 @@
 ---
 title: "Ananke: a Hugo Theme"
-featured_image: ''
+featured_image: 'logo_gray.jpg'
 description: "The last theme you'll ever need. Maybe."
 ---
 
