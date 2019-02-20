@@ -1,10 +1,14 @@
 <div class="relative w-100 mb4 bg-black nested-copy-line-height">
   <div class="bg-black mb3 pa4 gray overflow-hidden">
-    <span class="f6 db">{{ humanize .Section }}</span>
     <h1 class="f3 near-black">
       <a href="{{ .URL }}" class="link white dim">
         {{ .Title }}
       </a>
+      <div class="fw1 white-40">
+        {{ .Date }}
+      <br />
+      <div class="white-50 fw3">
+      {{ .Description }}
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       {{ .Summary  }}
