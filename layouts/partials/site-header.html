@@ -4,7 +4,7 @@
   {{ $featured_image := (trim $featured_image "/") | absURL }}
   <header class="constrain bg-black bg-top pt3">
     <div class="tc">
-      <a href="{{ .Site.BaseURL }}" class="h1 f1-l hover-white no-underline white dib tc tj mb5 mt4">
+      <a href="{{ .Site.BaseURL }}" class="h1 f1 hover-white no-underline white dib tc tj mb5 mt4">
           {{ .Site.Title }}
         </a>    
     <div class="h4 {{ .Site.Params.cover_dimming_class | default }}">
