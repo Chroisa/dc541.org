@@ -1,6 +1,7 @@
 ---
 title: "Feb11"
 date: 2019-02-04T21:18:46-08:00
+featured_image: logo_gray.jpg
 ---
 Stuff happend and many rejoice!
 

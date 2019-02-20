@@ -1,6 +1,6 @@
 ---
 title: "DC541"
-featured_image: 'logo_gray.jpg'
+featured_image: 'logo_gray.png'
 description: ""
 ---
 

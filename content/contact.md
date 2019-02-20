@@ -2,6 +2,7 @@
 title: Contact
 description: We'd love to hear from you
 type: page
+featured_image: 'logo_gray.png'
 menu:
   main: {}
 
