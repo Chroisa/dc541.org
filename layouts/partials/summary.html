@@ -7,11 +7,12 @@
       <div class="fw1 white-40">
         {{ .Date }}
       <br />
-      <div class="white-50 fw3">
+      <div class="white fw3">
       {{ .Description }}
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       {{ .Summary  }}
     </div>
+    <a href="{{.URL}}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">{{$.Param "read_more_copy" | default "read more" }}</a>
   </div>
 </div>
