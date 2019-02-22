@@ -7,7 +7,7 @@ description: ""
 ---
 DC541 sets out to provide a forum for open discussion between participants.  Radical viewpoints are welcome, and skepticism is expected.  Under these auspices, however, insulting or harassing other participants is unacceptable. At its core DC541 is to be seen as a productive environment for everyone, therefore we take individual participants safety to be a large part of this productivity.
 
-Itâ€™s not about what you look like but whatâ€™s in your mind and how you present yourself that counts.
+It's not about what you look like but what's in your mind and how you present yourself that counts.
 
 We do not condone harassment against of any participant or spectator, for any reason. Harassment includes deliberate intimidation and targeting individuals in a manner that makes them feel uncomfortable, unwelcome, or afraid.
 
